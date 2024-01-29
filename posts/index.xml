@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Oscar Rincón Blog</title>
-    <link>https://github.com/oscar-rincon/oscar-rincon.github.io/posts/</link>
-    <description>Recent content in Posts on Oscar Rincón Blog</description>
+    <title>Posts on Davids Blog</title>
+    <link>https://oscar-rincon.github.io/posts/</link>
+    <description>Recent content in Posts on Davids Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Sun, 28 Jan 2024 21:31:46 -0500</lastBuildDate><atom:link href="https://github.com/oscar-rincon/oscar-rincon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2024 21:31:46 -0500</lastBuildDate><atom:link href="https://oscar-rincon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is my first post</title>
-      <link>https://github.com/oscar-rincon/oscar-rincon.github.io/posts/my-first-post/</link>
+      <link>https://oscar-rincon.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 28 Jan 2024 21:31:46 -0500</pubDate>
       
-      <guid>https://github.com/oscar-rincon/oscar-rincon.github.io/posts/my-first-post/</guid>
-      <description>print(&amp;#34;¡Hola Mundo!&amp;#34;) </description>
+      <guid>https://oscar-rincon.github.io/posts/my-first-post/</guid>
+      <description>print(&amp;#34;¡Hola Mundo v2!&amp;#34;) </description>
     </item>
     
   </channel>
