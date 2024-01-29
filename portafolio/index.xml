@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio on Oscar&#39;s Blog</title>
+    <link>https://oscar-rincon.github.io/portafolio/</link>
+    <description>Recent content in Portafolio on Oscar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Jan 2024 21:31:46 -0500</lastBuildDate><atom:link href="https://oscar-rincon.github.io/portafolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calcium Diffusion Model</title>
+      <link>https://oscar-rincon.github.io/portafolio/page-1-f/</link>
+      <pubDate>Sun, 28 Jan 2024 21:31:46 -0500</pubDate>
+      
+      <guid>https://oscar-rincon.github.io/portafolio/page-1-f/</guid>
+      <description>This repository contains a collection of programs related to calcium dynamics modeling in different fiber types. The following sections provide information on how to run the programs and details about each program&amp;rsquo;s functionality and outputs.
+Installation Before running the programs, make sure to install the required Python libraries by running the following command in your shell:
+pip install -r requirements.txt List of Programs Program 1: cts.py
+Description: Set constants and calculate the concentration of binding sites at rest.</description>
+    </item>
+    
+    <item>
+      <title>EndoGPT</title>
+      <link>https://oscar-rincon.github.io/portafolio/page-1-a/</link>
+      <pubDate>Sun, 28 Jan 2024 21:31:46 -0500</pubDate>
+      
+      <guid>https://oscar-rincon.github.io/portafolio/page-1-a/</guid>
+      <description> Objective  Generate Virtual Medical Reports from real data. Classify if the generated output is fake or not. Show proof of concept by generating synthesized Endoscopic reports.   Please check our website https://nabillawrence-endogpt-websiteappmain-5v2wnl.streamlit.app/
+ Related projects   https://github.com/NabilLawrence/EndoGPT
+  https://huggingface.co/tombrooks248/EndoGPT
+  https://docs.ropensci.org/EndoMineR/articles/EndoMineR.html
+  https://github.com/sebastiz/FakeEndoReports
+   Contributors  Nabil Lawrence Jamal Tom Brooks Karim Id-Boufker Oscar Rincon Oliver Giles Andrei Danila  </description>
+    </item>
+    
+    <item>
+      <title>Recommendation Systems Netflix</title>
+      <link>https://oscar-rincon.github.io/portafolio/page-1-b/</link>
+      <pubDate>Sun, 28 Jan 2024 21:31:46 -0500</pubDate>
+      
+      <guid>https://oscar-rincon.github.io/portafolio/page-1-b/</guid>
+      <description>Online streaming platforms like Netflix have plenty of movies in their repository and if we can build a Recommendation System to recommend relevant movies to users, based on their historical interactions, this would improve customer satisfaction and hence, it will also improve the revenue of the platform. The techniques that we will learn here will not only be limited to movies, it can be any item for which you want to build a recommendation system.</description>
+    </item>
+    
+    <item>
+      <title>Shinkansen Travel Experience</title>
+      <link>https://oscar-rincon.github.io/portafolio/page-1-c/</link>
+      <pubDate>Sun, 28 Jan 2024 21:31:46 -0500</pubDate>
+      
+      <guid>https://oscar-rincon.github.io/portafolio/page-1-c/</guid>
+      <description>Problem statement Goal:
+The goal of the problem is to predict whether a passenger was satisfied or not considering his/her overall experience of traveling on the Shinkansen Bullet Train.
+Dataset:
+The problem consists of 2 separate datasets: Travel data &amp;amp; Survey data. Travel data has information related to passengers and attributes related to the Shinkansen train, in which they travelled. The survey data is aggregated data of surveys indicating the post-service experience.</description>
+    </item>
+    
+    <item>
+      <title>Template Thesis UdeA</title>
+      <link>https://oscar-rincon.github.io/portafolio/page-1-d/</link>
+      <pubDate>Sun, 28 Jan 2024 21:31:46 -0500</pubDate>
+      
+      <guid>https://oscar-rincon.github.io/portafolio/page-1-d/</guid>
+      <description>LaTeX template for thesis manuscript development.
+ File name: TemplateThesisUdeA.tex
+Last Modification: 08 - 03 - 2023 (MM - DD - YYYY)
+This is a LaTeX template file (TemplateThesisUdeA.tex) for creating a thesis document. Below, you&amp;rsquo;ll find an overview of the contents and structure of this LaTeX document.
+Table of Contents  Introduction Initial Pages of the Book Table of Contents Introduction, Acknowledgments, Abbreviations Book Chapters Annexes References Colophon of the Book  Introduction This LaTeX document serves as a template for creating a thesis document.</description>
+    </item>
+    
+  </channel>
+</rss>
